@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head>
+       <title>Primeira Atividade</title>
+   </head>
+
+   <body bgcolor="green"><br>
+     <h1 align="center"><b>Primeira Atividade</b></h1>
+     <p align="center">
+     <font size="5" color="blue">
+     Nem toda <b>lágrima</b> é dor, <br>
+     Nem toda graça é <i>sorriso</i>, <br>
+     Nem toda curva da vida tem uma placa de <font color="yellow">aviso</font>,<br>
+     Nem sempre que você perde é de fato um prejuízo.<br>
+     Bráulio Bessa
+     </font>
+     </p>
+     
+     <img src="Imagens/braulio.jpg">
+
+
+
+</body>
